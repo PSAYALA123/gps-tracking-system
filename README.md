@@ -70,4 +70,4 @@ A real-time GPS tracker built on an ESP32 that reads location from a NEO-6M GPS 
 
 ## Author
 
-PRIYANSHU SAYALA BTECH ECE KIIT 
+PRIYANSHU SAYALA BTECH ECE KIIT
